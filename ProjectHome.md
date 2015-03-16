@@ -1,0 +1,1 @@
+glydget is a simple OpenGL/pyglet widget toolkit
